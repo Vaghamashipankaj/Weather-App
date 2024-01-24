@@ -57,7 +57,7 @@ function App() {
         </div>
       )}
       <footer>
-        <p>&copy; {new Date().getFullYear()} Pankaj Vaghamashi</p>
+        <p>&copy; {new Date().getFullYear()} Nilesh Talsaniya</p>
       </footer>
     </div>
   );
